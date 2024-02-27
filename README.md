@@ -17,7 +17,7 @@ I'm the one who wants to be researcher-easily find the one-day vulnerability log
 
 ===========================================================================
 
-(Note: This translation assumes the context of a request for translation and vulnerability analysis.)
+(Note: If you have any request & recommand for vulnerability analysis.)
   -> write comment on issue side
 
 
