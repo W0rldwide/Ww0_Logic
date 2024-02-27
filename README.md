@@ -17,7 +17,7 @@ I'm the one who wants to be researcher-easily find the one-day vulnerability log
 
 
 (Note: If you have any request & recommand for vulnerability analysis.)
-  -> write comment on issue side
+  -> write comment on issue side!
 
 
 
