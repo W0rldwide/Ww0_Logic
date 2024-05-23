@@ -1,5 +1,5 @@
 # Ww0_Logic
-My own write-up's poc&amp;project's source code
+My own write-up's poc
 
 -- Interest : Window, Linux CVE & IoT CVE & Maleware Reversing --
 
